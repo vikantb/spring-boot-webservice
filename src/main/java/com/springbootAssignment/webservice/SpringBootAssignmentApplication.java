@@ -8,7 +8,7 @@ import org.springframework.data.jpa.repository.config.EnableJpaRepositories;
 /**
  * Application start
  * @author vikantbhati
- *
+ * 
  */
 @SpringBootApplication
 @EnableJpaRepositories
